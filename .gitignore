@@ -1,0 +1,14 @@
+# Ignore system-specific or sensitive files in dotfiles directory
+*~
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*.log
+.env
+*.sqlite
+*.db
+*.bak
+Thumbs.db
+.DS_Store

@@ -1,0 +1,37 @@
+{
+	"motd": {
+		"cloudBuildErrorAfter": 1594252800000,
+		"cloudBuildWarnAfter": 1590019200000,
+		"defaultNode10After": 1594252800000,
+		"minVersion": "3.0.5",
+		"node8DeploysDisabledAfter": 1613390400000,
+		"node8RuntimeDisabledAfter": 1615809600000,
+		"node8WarnAfter": 1600128000000,
+		"fetched": 1701118126882
+	},
+	"usage": true,
+	"analytics-uuid": "8c9255a9-b477-4959-86b5-60b9f74d62f1",
+	"user": {
+		"iss": "accounts.google.com",
+		"azp": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"aud": "563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com",
+		"sub": "101214737225253303495",
+		"email": "cristian.sanchez.fs@outlook.com",
+		"email_verified": true,
+		"at_hash": "8a1dORpsj8iqnMfrCc_qEg",
+		"iat": 1701118141,
+		"exp": 1701121741
+	},
+	"tokens": {
+		"expires_at": 1701121740936,
+		"access_token": "ya29.a0AfB_byDoongNPQ_VQQ-NYPHETBfBU-lfDQoaoBbqvg_Ur6xQk-3wthIyzgk_FO3JLtJCLoE0X_edZO3vaI8IOoXeJbu3unSp8LASU9e6bwC3AYCCgV4tl6vY0lwCFP6RM9BEMC3IfJAwGpTWB-1jwECOlEiABvBTV_DiN8lP6gaCgYKARESARMSFQHGX2MiXPyx-fiuHlEmI8EWuVURAA0177",
+		"expires_in": 3599,
+		"refresh_token": "1//05wbtcY0G29WKCgYIARAAGAUSNwF-L9Ire6r6L5A5pa5n4c3FdgMjhS8-zhody8Uo4GXQf_PLFle2b4UZVGGZ36uezV9HQxgq0xY",
+		"scope": "https://www.googleapis.com/auth/cloudplatformprojects.readonly https://www.googleapis.com/auth/firebase https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/cloud-platform openid",
+		"token_type": "Bearer",
+		"id_token": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjBlNzJkYTFkZjUwMWNhNmY3NTZiZjEwM2ZkN2M3MjAyOTQ3NzI1MDYiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJhY2NvdW50cy5nb29nbGUuY29tIiwiYXpwIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwiYXVkIjoiNTYzNTg0MzM1ODY5LWZncmhnbWQ0N2JxbmVraWo1aThiNXByMDNobzg0OWU2LmFwcHMuZ29vZ2xldXNlcmNvbnRlbnQuY29tIiwic3ViIjoiMTAxMjE0NzM3MjI1MjUzMzAzNDk1IiwiZW1haWwiOiJjcmlzdGlhbi5zYW5jaGV6LmZzQG91dGxvb2suY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF0X2hhc2giOiI4YTFkT1Jwc2o4aXFuTWZyQ2NfcUVnIiwiaWF0IjoxNzAxMTE4MTQxLCJleHAiOjE3MDExMjE3NDF9.qURzfqtJyifE1qs9rlGifm7YbzBg2KrD2dGQFjEA5pUfwlAeyRCkhGCMFyqfTl07ahnFO4JKQDlZLcYwKFYb4za1-0CnBQkdOLJjbJ9SX4lXmRoa9NdEwms5uMDY99Rymo6vf8WRZtpwhqFRYsd7R_DR3IHx5bdBKoReW7FGf5DTutinaHRmibuS-LvrQY0ZNMkJfZF7JQ8b2247h9LpdGYpFSZp67kXiIbJFXhx9sF6Ybd1F0zEXG029b_KNJ4M0_szjqNiodRfm6GZdyw43kaInHJRIOopObJHricwTO085ow3SE3GNqDSXVuEJL91UtOr6JqlqZZ_WZI1LqOQ6g"
+	},
+	"activeProjects": {
+		"/home/cris/Projects/todoapp": "todoapp-bab69"
+	}
+}
